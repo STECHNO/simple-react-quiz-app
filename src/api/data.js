@@ -10,18 +10,6 @@ const data = [
         ],
         correct: 2
     },
-
-
-
-
-
-
-
-
-
-
-
-
     {
         question: "The external JavaScript file must contain the <script> tag.",
         options: [
@@ -30,23 +18,6 @@ const data = [
         ],
         correct: 1
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         question: "Where is the correct place to insert a JavaScript?",
         options: [
