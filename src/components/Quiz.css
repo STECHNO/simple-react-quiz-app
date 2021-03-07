@@ -1,0 +1,53 @@
+.right{
+    position: absolute;
+    right: 100px
+}
+
+button.AnswerBtn {
+    width: 200px;
+    height: 34px;
+    background-color: green;
+    border: none;
+    margin: 3px;
+    color: white;
+    cursor: pointer;
+}
+
+button.AnswerBtn:hover {
+    opacity: 0.8
+}
+
+.parallel {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 50px;
+}
+
+.pass {
+    color: green;
+    font-size: 30px
+}
+
+.fail {
+    color: red;
+    font-size: 30px;
+}
+
+.scoreCorrect {
+    font-size: 30px;
+    font-weight: 700;
+    color: green;
+}
+
+.scoreInCorrect {
+    font-size: 30px;
+    font-weight: 700;
+    color: red
+}
+
+.ScoreArea {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+}
